@@ -7,3 +7,5 @@ To run the project, open the file titled "Candy Run.py" using VS Code or other c
 The project requires Python module Pygame to be installed
 
 A video demo of the project: https://youtu.be/U_xrrlb0kG0
+
+
