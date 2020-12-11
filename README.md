@@ -10,6 +10,6 @@ The project requires Python module Pygame to be installed
 
 A video demo of the project: https://youtu.be/U_xrrlb0kG0
 
-<img width="798" alt="Screen Shot 2020-12-11 at 1 47 42 AM" src="https://user-images.githubusercontent.com/63748439/101872509-5dfb3280-3b53-11eb-844a-6a451df583a2.png">
+<img width="1000" alt="Screen Shot 2020-12-11 at 1 47 42 AM" src="https://user-images.githubusercontent.com/63748439/101872509-5dfb3280-3b53-11eb-844a-6a451df583a2.png">
 
 
