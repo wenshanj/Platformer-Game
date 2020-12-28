@@ -2,7 +2,7 @@
 
 The title of the project is Candy Run! It is a platform game in which the player-controlled character must jump between platforms while avoiding enemies, collecting coins and other items, and solve maze
 
-Important features include maze generation with backtracking, file I/O, scoreboard, shop, sound effects and mutiple game screens
+Important features include maze generation with backtracking, file I/O, scoreboard, shop, sound effects and multiple game screens
 
 To run the project, open the file titled "Candy Run.py" using VS Code or other code editors
 
